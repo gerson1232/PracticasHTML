@@ -183,3 +183,69 @@
 		.select div span{
 			display: none;
 		}
+		footer{
+			background: #000;
+			width: 100%;
+		}
+		.body-footer{
+			width: 100%;
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 20px 0;
+		}
+		.body-footer h5{
+			margin: 0;
+			color: #aaa;
+		}
+		@media(max-width: 500px){
+			.product-box {
+				width: calc(100%/2 - 20px);
+			}
+			.options-place{
+				display: none;
+			}
+			.menu-movil{
+				display: block;
+			}
+			.logo-place{
+				width: 100px;
+				margin-top: 2px;
+			}
+			.search-place{
+				width: calc(100% - 170px);
+			}
+			.menu-opciones {
+				right: 10px;
+			}
+			.content-page section{
+				display: block;
+			}
+			.part2{
+				width: calc(100% - 20px);
+			}
+			.part2 h2,.part2 h1,.part2 h3{
+				margin: 0;
+			}
+			.part2 h2{
+				font-size: 20px;
+			}
+			.part2 h1{
+				font-size: 25px;
+			}
+			.part2 h1 span{
+				font-size: 16px;
+			}
+			.part2 h4{
+				font-size: 14px;
+			}
+			.pedido-img{
+				width: 120px;
+			}
+			.pedido-detalle{
+				width: calc(100% - 140px);
+			}
+			h3{
+				margin: 10px 0;
+			}
+		}
+		
