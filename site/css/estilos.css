@@ -248,4 +248,43 @@
 				margin: 10px 0;
 			}
 		}
+		.mb5{
+			margin-bottom: 5px!important;
+		}
+		.body-footer{
+			width: 100%;
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 20px 0;
+		}
+		.body-footer h5{
+			margin: 0;
+			color: #aaa;
+		}
+		.mb20{
+			margin-bottom: 20px;
+		}
+		.mb10{
+			margin-bottom: 10px!important;
+		}
 		
+		.div-flex{
+			display: flex;
+		}
+		.div-flex .part{
+			padding: 0 10px;
+			width: 50%;
+		}
+		.div-flex .part h4{
+			margin: 0;
+			color: #fff;
+		}
+		.div-flex .part p{
+			color: #fff;
+		}
+		.mb20{
+			margin-bottom: 20px;
+		}
+		.mb10{
+			margin-bottom: 10px!important;
+		}
